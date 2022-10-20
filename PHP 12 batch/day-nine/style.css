@@ -1,0 +1,21 @@
+*{
+	box-sizing: border-box;
+
+}
+.one + div + div > div > div > p {
+	background: red;
+	color: white;
+
+}
+ol{
+	background: brown;
+}
+li:nth-child(odd){
+	background: yellow;
+}
+li:nth-last-child(1){
+	background: blue;
+}
+.one, .hhh, .kkk{
+	background: green;
+}

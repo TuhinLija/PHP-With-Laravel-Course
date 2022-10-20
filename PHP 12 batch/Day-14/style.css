@@ -1,0 +1,16 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.containerone{
+	margin-top: 70px;
+
+}
+.img{
+	height: 200px;
+	width: 300px;
+	border: 2px solid black;
+	float: left;
+	margin: 200px 0 0 500px;
+}

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2962dd2d-0fa3-4dc1-bf1d-0984e227bf50" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="ProjectId" id="2G51KkrQZ47U29HKSizgh2sorMW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sairoon" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2962dd2d-0fa3-4dc1-bf1d-0984e227bf50" name="Default Changelist" comment="" />
+      <created>1665663568761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665663568761</updated>
+      <workItem from="1665663570126" duration="2944000" />
+      <workItem from="1665667337259" duration="16000" />
+      <workItem from="1665667400632" duration="3080000" />
+      <workItem from="1665722205948" duration="974000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="39" key="FileChooserDialogImpl" timestamp="1665722579954">
+      <screen x="0" y="0" width="1280" height="570" />
+    </state>
+    <state x="420" y="39" key="FileChooserDialogImpl/0.0.1280.570@0.0.1280.570" timestamp="1665722579954" />
+    <state x="456" y="113" key="NewPhpClassDialog" timestamp="1665664349392">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="456" y="113" key="NewPhpClassDialog/0.0.1366.738@0.0.1366.738" timestamp="1665664349392" />
+    <state x="517" y="300" key="NewPhpFileDialog" timestamp="1665664330881">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="517" y="300" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1665664330881" />
+    <state x="186" y="15" key="SettingsEditor" timestamp="1665667523949">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="186" y="15" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1665667523949" />
+  </component>
+</project>

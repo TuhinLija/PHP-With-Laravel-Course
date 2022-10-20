@@ -1,0 +1,156 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.one{
+	height: 100px;
+	width: 30%;
+	border: 2px solid black;
+	background: green;
+	float: left;
+	
+}
+.two{
+	height: 100px;
+	width: 70%;
+	border: 2px solid;
+	background: red;
+	border: 1px solid black;
+	float: left;
+	
+}
+.three{
+	height: 300px;
+	width: 10%;
+	border: 2px solid;
+	background: blue;
+	border: 1px solid black;
+	float: left;
+	
+}
+.four{
+	height: 300px;
+	width: 90%;
+	border: 2px solid;
+	background: yellow;
+	border: 1px solid black;
+	float: left;
+	
+}
+.five{
+	height: 100px;
+	width: 100%;
+	border: 2px solid;
+	background: brown;
+	border: 1px solid black;
+	float: left;
+	
+}
+
+
+[class*="col-"]{
+	float: left;
+	height: 50px;
+	border: 1px solid red;
+
+}
+.col-one{
+	width: 8.33%;
+
+}
+.col-two{
+	width: 16.66%;
+
+}
+.col-three{
+	width: 25%;
+
+}
+.col-four{
+	width: 33.33%;
+
+}
+.col-five{
+	width: 41.66%;
+
+}
+.col-six{
+	width: 50%;
+
+}
+.col-seven{
+	width: 58.33%;
+
+}
+.col-eight{
+	width: 66.66%;
+
+}
+.col-nine{
+	width: 75%;
+
+}
+.col-ten{
+	width: 83.33%;
+
+}
+.col-eleven{
+	width: 91.66%;
+
+}
+.col-twelve{
+	width: 100%;
+
+}
+@media only screen and (min-width: 761px) and (max-width: 1200px){
+	.col-six, .col-three{
+		width: 100%;
+	}
+}
+
+@media only screen and (min-width: 761px) and (max-width: 1200px){
+ 
+.mmm{
+  	height: 100px;
+	width: 50%;
+	border: 2px solid darkred;
+	float: left;
+
+  }
+ .two{
+	height: 100px;
+	width: 50%;
+	border: 2px solid;
+	background: red;
+	border: 1px solid black;
+	float: left; 
+	display: none;
+}
+.three{
+	height: 300px;
+	width: 50%;
+	border: 2px solid;
+	background: blue;
+	border: 1px solid black;
+	float: left;
+	
+}
+.four{
+	height: 300px;
+	width: 50%;
+	border: 2px solid;
+	background: yellow;
+	border: 1px solid black;
+	float: left;
+	
+}
+.five{
+	height: 100px;
+	width: 50%;
+	border: 2px solid;
+	background: brown;
+	border: 1px solid black;
+	float: left;
+	}
+ }
